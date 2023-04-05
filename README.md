@@ -1,24 +1,30 @@
-# tailwind-theme
+### Links
 
-## Project setup
-```
-npm install
-```
+- Live Site URL:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Description
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Users Can:
 
-### Lints and fixes files
-```
-npm run lint
-```
+- View the optimal layout for the Weather App.
+- Search The cities Weather .
+- View the cities daily & hourly weather.
+- Add city to their local storage so they can track its weather, and also remove
+  it.
+- Create their own city list.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Tools
+
+- HTML
+- Tailwind CSS
+- Vue 3
+- Local Storage
+- Axios
+- APIs: Map Box & Open Weather
+- UID
+- FontAwesome
+- Google Fonts
+
+### Screenshot
+
+![Home](./design/home.png) ![City](./design/city.png) ![Info](./design/info.png)
